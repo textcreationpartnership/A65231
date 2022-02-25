@@ -1,0 +1,200 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The great obiection concerning the Quakers meetings fully answered Wherein, in several particulars, it is proved, that although the said people do meet together, yet they are not transgressors of the law, according to right reason, which is the ground and foundation thereof; and therefore according to equity and good conscience, ought not to suffer for so doing, neither ought their meetings to be supprest. By a lover of all righteous laws, and just government, and one unto whom such laws are not a terror, R.W.</title>
+            <author>Wastfield, Robert, fl. 1647-1665.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65231</idno>
+            <idno type="STC">Wing W1034</idno>
+            <idno type="STC">ESTC R219415</idno>
+            <idno type="EEBO-CITATION">99830889</idno>
+            <idno type="PROQUEST">99830889</idno>
+            <idno type="VID">35351</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A65231)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35351)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1879:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The great obiection concerning the Quakers meetings fully answered Wherein, in several particulars, it is proved, that although the said people do meet together, yet they are not transgressors of the law, according to right reason, which is the ground and foundation thereof; and therefore according to equity and good conscience, ought not to suffer for so doing, neither ought their meetings to be supprest. By a lover of all righteous laws, and just government, and one unto whom such laws are not a terror, R.W.</title>
+                  <author>Wastfield, Robert, fl. 1647-1665.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1662]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>R.W. = Robert Wastfield.</note>
+                  <note>Imprint from Smith.</note>
+                  <note>Imperfect: title page faded with loss of text; text cropped at head affecting paging.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Quakers --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:35351:1"/>
+            <pb facs="tcp:35351:1" rendition="simple:additions"/>
+            <p>THE Great Obiection Concerning the QUAKERS MEETINGS Fully Anſwered.</p>
+            <p>
+               <hi>Wherein, in ſeveral Particulars, it is pro<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>
+               </hi> That although the ſaid People do meet toge<gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> they are not tranſgreſſors of the Law, according <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Rea<g ref="char:EOLhyphen"/>ſon,</hi> which is the Ground and Foundation thereof; and therefore according to Equity and good Conſcience, ought not to ſuffer for ſo doing, neither ought their MEETINGS to be ſuppreſt.</p>
+            <p>By a lover of all righteous Laws, and juſt Government, and one unto whom ſuch Laws are not a terror, <hi>R. W.</hi>
+            </p>
+            <q>The Law is good if a man uſe it lawfully; for the Law is not made for a righteous man, but for the lawleſs and diſobedient, for the ungodly and for ſinners, for the unholy and prophane, <hi>&amp;c.</hi> and againſt any other thing that is contrary to ſound Doctrine,
+<bibl>
+                  <hi>1 Tim. 1.8, 9, 10.</hi>
+               </bibl>
+            </q>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:35351:2"/>
+            <pb n="1" facs="tcp:35351:2"/>
+            <head>The great Objection concerning the <hi>Qua<g ref="char:EOLhyphen"/>kers</hi> Meetings, fully anſwered.</head>
+            <p>WHereas it is objected againſt the People called <hi>Qua<g ref="char:EOLhyphen"/>kers, That they are tranſgreſſors of the Kings Law, and therefore the ſufferings which is inflicted upon them, is juſt, and the Magistrate bound by his Oath to inflict the ſame; and that if they would free themſelves from thoſe ſufferings, they muſt unform to the Law, and that they may not call thoſe ſufferings perſecution for Conſcience-ſake, but execution of the Law, and Admi<g ref="char:EOLhyphen"/>niſtration of Juſtice.</hi>
+            </p>
+            <p>And foraſmuch as the ſaid people called <hi>Quakers,</hi> are found in the practice of that which ſeems to be forbidden by the Law, and therefore by many are judged tranſgreſſors of the Law; theſe following particulars being ſeriouſly weighed, and duely conſidered, may ſerve to convince all ſober-minded people, that according to the true intent and meaning of the Law, (as it is agreeable to the righteous end of all Govern<g ref="char:EOLhyphen"/>ment) the ſaid people are not guilty of the tranſgreſſion thereof; and therefore in Equity and good Conſcience ought not to ſuffer the penalties, and undergo the puniſhments that are therein preſcribed.</p>
+            <p n="1">I. The juſt Laws of <hi>England,</hi> and all Nations, are grounded upon Right Reaſon; and it hath been the declared opinion of the moſt able Lawyers, (yea, and a Maxime among them) That whatever Law is made, if it be not grounded upon right Reaſon, and hath not that for its foundation, ſuch a Law ſo made, is in it ſelf null and void.</p>
+            <p n="2">II. And this Right Reaſon hath always reſpect to the good and well being of all people, who are to be governed by ſuch Laws, to protect, countenance and encourage the good in the well-doing, and to diſcountenance and puniſh the contrary,
+<pb n="2" facs="tcp:35351:3"/>and to prevent men from doing evil, and from hurting, inju<g ref="char:EOLhyphen"/>ring and deſtroying one another, and to keep all in peace and love, that people might live a quiet and peaceable life, in all godlineſs and honeſty: And this is the righteous End of all Government; and if any Law be made contrary to this End, its againſt the very Being and End of all juſt Government.</p>
+            <p n="3">III. And the Reaſon of the Law is expreſſed in the Pream<g ref="char:EOLhyphen"/>ble to the Law or Statute; and the Reaſon ſo expreſſed ought always to be the Rule of his, or their Judgements (both in the Expoſition and Execution thereof) who are intruſted with the Adminiſtration of the Law, and Judgement ought to be given accordingly.</p>
+            <p n="4">IV. And herein onely doth the Magiſtrate perform his truſt and keep his Oath, as he hath reſpect to the Reaſon on which the Law is grounded, and makes that the Rule of his Judge<g ref="char:EOLhyphen"/>ment in all caſes, and proceeds accordingly; and not in the ſtrict obſervance of the Formalities and Punctillioes, which are but the skirts and ſubburbs of the Law, Reaſon being the very life and ſubſtance thereof.</p>
+            <p n="5">V. And if any judgement be given, or Law put in executi<g ref="char:EOLhyphen"/>on contrary to the Reaſon of the Law, ſuch a Judgement or Execution is in it ſelf unjuſt, and contrary to the Law, and therefore may not be called Execution of Juſtice, or Admini<g ref="char:EOLhyphen"/>ſtration of the Law, but Injuſtice and Oppreſſion on whomſo<g ref="char:EOLhyphen"/>ever it is acted.</p>
+            <p n="6">VI. And if that which is alledged as the Reaſon of the Law (and ought to be the Rule of Judgement in the Adminiſtra<g ref="char:EOLhyphen"/>tion and Execution thereof) be not ſo in it ſelf, then ſuch a Law ſo made, is groundleſs, and without foundation; and as its ſaid, <hi>Where there is no Law, there is no tranſgreſſion;</hi> ſo where there is no cauſe found which is alledged as the Reaſon of the Law, there being no tranſgreſſion or evil committed, there is no need of a Law.</p>
+            <p n="7">VII. Now the Reaſon expreſt in the Preamble to the Law
+<pb n="3" facs="tcp:35351:3"/>made againſt the Meetings of the People called <hi>Quakers,</hi> is a ſuggeſtion, that under pretence of Religious Worſhip, the ſaid perſons do often aſſemble themſelves in great numbers in ſe<g ref="char:EOLhyphen"/>veral parts of this Realm, to the great endangering of the pub<g ref="char:EOLhyphen"/>like peace and ſafety, and to the terror of the people, by main<g ref="char:EOLhyphen"/>taining a ſecret and ſtrict correſpendence amongſt themſelves, &amp;c. Theſe are the words in the Preamble to the Law, as the reaſon thereof.</p>
+            <p n="8">VIII. And if the caſe were rightly ſtated, and their Judge<g ref="char:EOLhyphen"/>ments truly informed who made this Law, as concerning the end and intent of ſuch Meetings, and that they were really of ſuch bad Conſequence, &amp; would produce ſuch evil effects, then it were good reaſon to ſuppreſs them, and this reaſon were a good ground and foundation for ſuch a Law, becauſe it makes proviſion for publike peace and ſafety, and to prevent the contrary.</p>
+            <p n="9">IX. But if the caſe be miſ-ſtated concerning the end and in<g ref="char:EOLhyphen"/>tent of ſuch their Meetings; and that it neither hath, doth, or can produce ſuch effects as is ſuggeſted, then there is no rea<g ref="char:EOLhyphen"/>ſon for ſuch a Law, and ſo no ground nor foundation, and conſequently no Law; and where there is no Law, there can be no tranſgreſſion, and in good Conſcience ought to be no pu<g ref="char:EOLhyphen"/>niſhment.</p>
+            <p n="10">X. And the Reaſon of the Law being the Rule of Judge<g ref="char:EOLhyphen"/>ment to every one, in the Expoſition, Execution and Admini<g ref="char:EOLhyphen"/>ſtration of the Law, in order to the performing their Truſt, and keeping their Oaths inviolably, if they are perſwaded in their Conſciences that the people called <hi>Quakers</hi> are not guilty of the crimes ſuggeſted, nor their Meetings held to ſuch in<g ref="char:EOLhyphen"/>tents, nor do produce ſuch effects as is alledged as the Reaſon of the Law; ſuch Magiſtrates ſo perſwaded, are not obliged by their Oaths to ſuppreſs ſuch Meetings, nor to inflict penalties and puniſhments upon the perſons of them which do ſo meet together.</p>
+            <p n="11">XI. But we the people called <hi>Quakers,</hi> have the Teſtimony of a clear Conſcience in the ſight of God, concerning our in<g ref="char:EOLhyphen"/>nocency, and the uprightneſs of our hearts in this particu<g ref="char:EOLhyphen"/>lar, that what is ſuggeſted againſt us, as the end or intent of our meeting together, never entered into our hearts, neither
+<pb n="4" facs="tcp:35351:4"/>was ever ſuch effects produced through any occaſion by us gi<g ref="char:EOLhyphen"/>ven; and in this caſe we appeal to the Conſciences of all Ma<g ref="char:EOLhyphen"/>giſtrates in <hi>England,</hi> yea even to our greateſt Enemies, and to all the World, Whether ever it were known, or can be proved againſt us, That we deſign any ſuch things in our Meetings; or whether ſuch effects have at any time been produced by rea<g ref="char:EOLhyphen"/>ſon of ſuch our Meetings. Therefore we judge, That accord<g ref="char:EOLhyphen"/>ing to Reaſon and good Conſcience we ought to enjoy our Meetings, and not have them ſuppreſt, nor we made to ſuffer in our Perſons or Eſtates for ſo doing.</p>
+            <p n="12">XII. Again, the Reaſon of the Law (which is the very life and being thereof) ſuppoſeth, That the people called <hi>Qua<g ref="char:EOLhyphen"/>kers</hi> do onely pretend to Religious Worſhip in their ſaid Meet<g ref="char:EOLhyphen"/>ings; but that the intent of their Meetings is the diſturbance of the publike peace, <hi>&amp;c.</hi> which if ſo, it is acknowledged it were very juſt and reaſonable, yea abſolutely neceſſary to ſuppreſs them; becauſe the ſuppreſſing of them would tend to the pre<g ref="char:EOLhyphen"/>ſervation of the publike peace and ſafety.</p>
+            <p n="13">XIII. Therefore it appears by the Reaſon of the Law, That it was not the intent of them that made the Law, to ſuppreſs Meetings that are indeed for Religious Worſhip, but ſuch who onely pretend thereunto, and under ſuch pretences deſign ſomething to the endangering of the publike peace: So that Meetings which are indeed and in truth kept for Religious Worſhip towards God, free from all ſuch evil deſigns and falſe pretences, are not (according to the Reaſon of the Law) to be ſuppreſt, nor the perſons ſo meeting, to be puniſhed.</p>
+            <p n="14">XIV. Then if the people called <hi>Quakers</hi> do really and in<g ref="char:EOLhyphen"/>tentionally meet in a way of Religious Worſhip towards God, according to the perſwaſion of their Conſciences, free and clear from all ſuch falſe pretences, and evil deſigns, and that their Meetings do produce no ſuch bad effects as the Reaſon of the Law provides againſt, then the Reaſon of the Law being the root and foundation, yea the life and being thereof, is not againſt them, neither is the Magiſtrate obliged by his oath to execute it upon them.</p>
+            <p n="15">XV. But we the people called <hi>Quakers,</hi> are clear in our con<g ref="char:EOLhyphen"/>ſciences in the ſight of the Lord, that our Meetings together is not under a pretence of Religious Worſhip, to diſturb the pub<g ref="char:EOLhyphen"/>like
+<pb facs="tcp:35351:4"/>peace, or to endanger the ſame, nor to hurt or injure any perſon whatſoever, either in life, limb, liberty or eſtate, nor to affright or terrifie them; but in the fear of the Lord in real<g ref="char:EOLhyphen"/>lity and intention of our hearts, to worſhip him in the ſpirit and in the truth, according to the perſwaſion of his holy ſpi<g ref="char:EOLhyphen"/>rit in our hearts and conſciences, whereby we are drawn in de<g ref="char:EOLhyphen"/>ſires after him, that we might come to the knowledge of him whom to know is life eternal, and might enjoy his preſence in our ſouls, which is more to us than all the glory of the World, and might know his leadings, and follow him who is the Cap<g ref="char:EOLhyphen"/>tain of our ſalvation, and Prince of Peace, who leads his peo<g ref="char:EOLhyphen"/>ple out of darkneſs, and out of all unrighteouſneſs, and puts an end to all ſtrife, and takes away the occaſion of Wars, by ſlaying the luſt in the heart, from whence Wars cometh; Who teacheth us to love enemies, and to endeavour the good of all people, and to ſeek to ſave mens lives, and not deſtroy them. And this is the very end of our meeting together, to wait up<g ref="char:EOLhyphen"/>on the Lord to ſeel the operation of his holy Spirit in our hearts, thus to order our converſation, that we might do that which is well pleaſing in his ſight, and have the teſtimony in our hearts, that we are accepted of him, that we might live to his praiſe and glory, who is over all, God bleſſed for ever.</p>
+            <p n="16">XVI. And if Magiſtrates are thus perſwaded, and can thus believe concerning the ground and end of our Meetings, We hope they wil not then judge themſelves bound or obliged by their Oaths to execute the Law upon us, becauſe its contrary to the Reaſon thereof; and we believe many at this day are thus perſwaded concerning us; and we are conſident, that for theſe divers years paſt, ſince we have been of this per<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ſion, and diſtinguiſhed from other people by the Name of <hi>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uakers,</hi> and meet together after this manner, though there hath happened many and great revolutions in the world, and eſpecially in this land wherein we live, yet it cannot be proved that we have intermedled with thoſe things, neither hath any ſuch things been acted or deſigned by us, as is ſuggeſted, and as the reaſon of the Law provides againſt, although our pro<g ref="char:EOLhyphen"/>vocations thereunto hath been very great, and the opportu<g ref="char:EOLhyphen"/>nities of advantage to free our ſelves from our great and in<g ref="char:EOLhyphen"/>nocent ſufferings, very many.</p>
+            <p n="17">XVII. Again, it is to be conſidered, that by the Law many
+<pb facs="tcp:35351:5"/>times in one and the ſame action, the intent and purpoſe of the mind, very much alters the caſe, and makes it more or leſs hainous; and the Reaſon of the Law doth proportion puniſh<g ref="char:EOLhyphen"/>ments ſuitable thereunto; yea, in the ſame caſes the very pur<g ref="char:EOLhyphen"/>poſe of the mind in one and the ſame action, makes it to be a tranſgreſſion in a high nature, or no tranſgreſſion at all. As for inſtance, The killing of any perſon, although the action may be one and the ſame, yet it is found either wilful Murder, or Man-ſlaughter, according to the purpoſe of his mind that com<g ref="char:EOLhyphen"/>mitted the Fact; and the Reaſon of the Law makes a differ<g ref="char:EOLhyphen"/>ence in the puniſhment. So alſo in the breaking open of a Houſe, if it be with a Felonious intent, to ſteal any thing out of the Houſe, it is Burglary, which is death without be<g ref="char:EOLhyphen"/>nefit of the Clergy. But if a perſon break into a Houſe, or break down a Houſe to ſtop or prevent fire in a Town or City, it is no tranſgreſſion by the law. And here onely the intent of the mind alters the caſe, although the action be one and th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſame.</p>
+            <p n="18">XVIII. So although the People called <hi>Quakers</hi> are found in action of meeting together, yet foraſmuch as the intent of their minds is not to do thoſe things which the Reaſon of the Law provides againſt, which is expreſt in the Preamble thereof; nei<g ref="char:EOLhyphen"/>ther can thoſe things be proved againſt them, nor ſuch effects ever produced by them; therefore the reaſon of the law doth not condemn them for meeting together, neither according to Equity and good Conſcience ought they to ſuffer for ſo doing.</p>
+            <p>
+               <hi>The conſideration of theſe things (though many more weighty Rea<g ref="char:EOLhyphen"/>ſons might be given to plead our juſtification and vindication in this m<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ter) may ſerve to convince any that are entruſted with the Executio<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> that Law, that they are no more obliged by their Oaths, then they required by the Act it ſelf, to put it in execution upon us, and tha<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Objection commonly made againſt us, is fully anſwered.</hi>
+            </p>
+            <closer>
+               <dateline>Southampton <date>the 18th. of the 8th. Month, 1662.</date>
+               </dateline> 
+               <signed>Robert Waſtfield.</signed>
+            </closer>
+            <pb facs="tcp:35351:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
